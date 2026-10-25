@@ -1,0 +1,8 @@
+{
+    "python.terminal.executeInFileDir": true,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "editor.formatOnSave": false,
+    "files.encoding": "utf8"
+}
